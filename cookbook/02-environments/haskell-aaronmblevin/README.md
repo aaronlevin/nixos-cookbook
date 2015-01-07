@@ -14,4 +14,4 @@ My typical workflow:
 
 ## Issues
 
-One issue with this workflow is that adding a project to `project-name.cabal` requires me to add that same dependencies to `shell.nix`.
+One issue with this workflow is that adding a dependency to `project-name.cabal` requires me to add that same dependency to `shell.nix`.
